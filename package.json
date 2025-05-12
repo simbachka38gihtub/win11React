@@ -1,7 +1,7 @@
 {
-  "name": "win11react",
-  "description": "Win11 made in React",
-  "repository": "https://github.com/blueedgetechno/win11React",
+  "name": "deadalone",
+  "description": "win 11 but dead",
+  "repository": "https://github.com/tubicalson/win11butdead",
   "version": "0.1.1",
   "private": true,
   "dependencies": {
@@ -59,9 +59,9 @@
       "not op_mini all"
     ],
     "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
+      "last 1 capitan version",
+      "last 1 jojo version",
+      "last 1 sufar version"
     ]
   },
   "devDependencies": {
